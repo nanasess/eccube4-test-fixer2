@@ -1,0 +1,15 @@
+{
+    "name": "kiy0taka/eccube4-test-fixer",
+    "version": "0.0.1",
+    "description": "EC-CUBE 4.0.x Test Fixer",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Eccube": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^6.5",
+        "friendsofphp/php-cs-fixer": "^2.10"
+    }
+}
