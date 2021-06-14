@@ -1,5 +1,5 @@
 {
-    "name": "kiy0taka/eccube4-test-fixer",
+    "name": "nanasess/eccube4-test-fixer2",
     "version": "0.0.1",
     "description": "EC-CUBE 4.0.x Test Fixer",
     "license": "MIT",
@@ -9,7 +9,7 @@
         }
     },
     "require": {
-        "phpunit/phpunit": "^6.5",
+        "phpunit/phpunit": "^6.5 || ^7 || ^8",
         "friendsofphp/php-cs-fixer": "^2.10"
     }
 }
